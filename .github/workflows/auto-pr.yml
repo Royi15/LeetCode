@@ -18,7 +18,8 @@ jobs:
 
       - name: Create PR and Trigger CodeRabbit
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # כאן התבצע השינוי: החלפנו לטוקן אישי שלך
+          GH_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
         run: |
           # Check if a PR is already open to avoid errors
           PR_EXISTS=$(gh pr list --head leethub-sync --base main --json number --jq 'length')
