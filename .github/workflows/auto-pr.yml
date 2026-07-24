@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create PR and Request Copilot Review
+      - name: Create Pull Request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -24,24 +24,11 @@ jobs:
           PR_EXISTS=$(gh pr list --head leethub-sync --base main --json number --jq 'length')
           
           if [ "$PR_EXISTS" -eq "0" ]; then
-            # Create the PR and capture its URL
-            PR_URL=$(gh pr create \
+            gh pr create \
               --base main \
               --head leethub-sync \
               --title "🤖 New LeetCode Solution" \
-              --body "This PR was generated automatically after a push from LeetHub. Ready for Code Review.")
-            
-            echo "PR created successfully: $PR_URL"
-            
-            # Attempt to add Copilot as a formal reviewer (fails silently if bot isn't assignable)
-            gh pr edit $PR_URL --add-reviewer github-copilot || true
-            
-            # Tag Copilot in a comment to trigger the automated review
-            gh pr comment $PR_URL --body "@github-copilot please review this PR."
+              --body "This PR was generated automatically after a push from LeetHub. Ready for Code Review."
           else
             echo "A PR is already open. The new commit was added to it."
-            
-            # Retrieve existing PR URL and request a re-review for the new commit
-            PR_URL=$(gh pr list --head leethub-sync --base main --json url --jq '.[0].url')
-            gh pr comment $PR_URL --body "@github-copilot a new commit was added, please review the updates."
           fi
