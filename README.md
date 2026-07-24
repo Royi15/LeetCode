@@ -13,6 +13,7 @@ A collection of LeetCode questions I've solved
 | [0064-minimum-path-sum](https://github.com/Royi15/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0937-reorder-data-in-log-files](https://github.com/Royi15/LeetCode/tree/master/0937-reorder-data-in-log-files) |
 | [1268-search-suggestions-system](https://github.com/Royi15/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions I've solved
 | [0006-zigzag-conversion](https://github.com/Royi15/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
+| [0937-reorder-data-in-log-files](https://github.com/Royi15/LeetCode/tree/master/0937-reorder-data-in-log-files) |
 | [1041-robot-bounded-in-circle](https://github.com/Royi15/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1268-search-suggestions-system](https://github.com/Royi15/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Dynamic Programming
@@ -68,6 +70,7 @@ A collection of LeetCode questions I've solved
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
+| [0937-reorder-data-in-log-files](https://github.com/Royi15/LeetCode/tree/master/0937-reorder-data-in-log-files) |
 | [1268-search-suggestions-system](https://github.com/Royi15/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Greedy
 |  |
