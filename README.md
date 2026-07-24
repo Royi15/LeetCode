@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Royi15/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-robot-bounded-in-circle](https://github.com/Royi15/LeetCode/tree/master/1041-robot-bounded-in-circle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
