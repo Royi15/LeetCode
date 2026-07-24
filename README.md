@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Royi15/LeetCode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
