@@ -14,6 +14,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0064-minimum-path-sum](https://github.com/Royi15/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Royi15/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Royi15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Royi15/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0937-reorder-data-in-log-files](https://github.com/Royi15/LeetCode/tree/master/0937-reorder-data-in-log-files) |
@@ -24,6 +25,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Royi15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Royi15/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
@@ -78,6 +80,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0015-3sum](https://github.com/Royi15/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Royi15/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Royi15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Royi15/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0937-reorder-data-in-log-files](https://github.com/Royi15/LeetCode/tree/master/0937-reorder-data-in-log-files) |
 | [1268-search-suggestions-system](https://github.com/Royi15/LeetCode/tree/master/1268-search-suggestions-system) |
