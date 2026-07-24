@@ -1,6 +1,5 @@
 # LeetCode
-A collection of LeetCode questions I've solved 
-
+Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring continuous integration, automated PRs, and AI-driven code reviews.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
