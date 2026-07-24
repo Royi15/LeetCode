@@ -16,9 +16,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create PR and Trigger CodeRabbit
+      - name: Create PR
         env:
-          # כאן התבצע השינוי: החלפנו לטוקן אישי שלך
           GH_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
         run: |
           # Check if a PR is already open to avoid errors
@@ -30,16 +29,9 @@ jobs:
               --base main \
               --head leethub-sync \
               --title "🤖 New LeetCode Solution" \
-              --body "This PR was generated automatically after a push from LeetHub. Ready for Code Review.")
+              --body "This PR was generated automatically after a push from LeetHub.")
             
             echo "PR created successfully: $PR_URL"
-            
-            # Wake up CodeRabbit automatically
-            gh pr comment $PR_URL --body "@coderabbitai review"
           else
             echo "A PR is already open. The new commit was added to it."
-            
-            # Retrieve existing PR URL and request a re-review for the new commit
-            PR_URL=$(gh pr list --head leethub-sync --base main --json url --jq '.[0].url')
-            gh pr comment $PR_URL --body "@coderabbitai review"
           fi
