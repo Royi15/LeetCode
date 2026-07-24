@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create Pull Request
+      - name: Create PR and Trigger CodeRabbit
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -24,11 +24,21 @@ jobs:
           PR_EXISTS=$(gh pr list --head leethub-sync --base main --json number --jq 'length')
           
           if [ "$PR_EXISTS" -eq "0" ]; then
-            gh pr create \
+            # Create the PR and capture its URL
+            PR_URL=$(gh pr create \
               --base main \
               --head leethub-sync \
               --title "🤖 New LeetCode Solution" \
-              --body "This PR was generated automatically after a push from LeetHub. Ready for Code Review."
+              --body "This PR was generated automatically after a push from LeetHub. Ready for Code Review.")
+            
+            echo "PR created successfully: $PR_URL"
+            
+            # Wake up CodeRabbit automatically
+            gh pr comment $PR_URL --body "@coderabbitai review"
           else
             echo "A PR is already open. The new commit was added to it."
+            
+            # Retrieve existing PR URL and request a re-review for the new commit
+            PR_URL=$(gh pr list --head leethub-sync --base main --json url --jq '.[0].url')
+            gh pr comment $PR_URL --body "@coderabbitai review"
           fi
