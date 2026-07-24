@@ -1,1 +1,24 @@
+name: Auto Create PR for LeetHub
 
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Create Branch and PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: leetcode-review
+          title: "LeetCode Solution Review"
+          body: "Automated PR created for solution review."
+          base: main
