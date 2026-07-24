@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Royi15/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
 ## String
