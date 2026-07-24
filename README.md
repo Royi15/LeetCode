@@ -7,6 +7,7 @@ A collection of LeetCode questions I've solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Royi15/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Royi15/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions I've solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Royi15/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/Royi15/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Trie
 |  |
