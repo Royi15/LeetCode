@@ -16,15 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create PR
+      - name: Create PR and Trigger CodeRabbit Review
         env:
           GH_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
         run: |
-          # Check if a PR is already open to avoid errors
+          # Check if a PR is already open
           PR_EXISTS=$(gh pr list --head leethub-sync --base main --json number --jq 'length')
           
           if [ "$PR_EXISTS" -eq "0" ]; then
-            # Create the PR and capture its URL
+            # Create the PR
             PR_URL=$(gh pr create \
               --base main \
               --head leethub-sync \
@@ -35,3 +35,6 @@ jobs:
           else
             echo "A PR is already open. The new commit was added to it."
           fi
+
+          # Trigger CodeRabbit review on the PR
+          gh pr comment leethub-sync --body "@coderabbitai review"
