@@ -58,6 +58,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Royi15/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Royi15/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Royi15/LeetCode/tree/master/0070-climbing-stairs) |
 | [1041-robot-bounded-in-circle](https://github.com/Royi15/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -142,6 +143,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Royi15/LeetCode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Royi15/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Royi15/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Tree
