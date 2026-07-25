@@ -36,6 +36,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Royi15/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Royi15/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Royi15/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
