@@ -47,6 +47,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0062-unique-paths](https://github.com/Royi15/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Royi15/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Royi15/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Royi15/LeetCode/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | ------- |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Royi15/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Royi15/LeetCode/tree/master/0070-climbing-stairs) |
 | [1041-robot-bounded-in-circle](https://github.com/Royi15/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 ## Combinatorics
 |  |
@@ -156,4 +158,8 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Royi15/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Royi15/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
