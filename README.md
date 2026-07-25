@@ -6,6 +6,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Royi15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Royi15/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Royi15/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
@@ -77,6 +78,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Royi15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Royi15/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Royi15/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
@@ -94,6 +96,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Royi15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
 ## Binary Search
 |  |
