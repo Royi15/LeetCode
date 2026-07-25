@@ -125,6 +125,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Royi15/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -139,4 +140,12 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | ------- |
 | [0190-reverse-bits](https://github.com/Royi15/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Royi15/LeetCode/tree/master/0191-number-of-1-bits) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
