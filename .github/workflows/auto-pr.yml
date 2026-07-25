@@ -35,6 +35,3 @@ jobs:
           else
             echo "A PR is already open. The new commit was added to it."
           fi
-
-          # Trigger CodeRabbit review on the PR
-          gh pr comment leethub-sync --body "@coderabbitai review"
