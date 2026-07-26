@@ -59,6 +59,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Royi15/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Royi15/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Royi15/LeetCode/tree/master/0062-unique-paths) |
@@ -172,5 +173,10 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Royi15/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Royi15/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Royi15/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
