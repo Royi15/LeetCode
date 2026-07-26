@@ -28,6 +28,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0003-longest-substring-without-repeating-characters](https://github.com/Royi15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Royi15/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Royi15/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Royi15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -66,6 +67,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0029-divide-two-integers](https://github.com/Royi15/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Royi15/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Royi15/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Royi15/LeetCode/tree/master/0202-happy-number) |
 | [1041-robot-bounded-in-circle](https://github.com/Royi15/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 ## Combinatorics
 |  |
@@ -87,6 +89,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0015-3sum](https://github.com/Royi15/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Royi15/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Royi15/LeetCode/tree/master/0202-happy-number) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
