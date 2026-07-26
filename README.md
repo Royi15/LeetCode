@@ -141,10 +141,12 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Royi15/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Royi15/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -160,11 +162,13 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Royi15/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Royi15/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Royi15/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
