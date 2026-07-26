@@ -25,6 +25,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Royi15/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Royi15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/Royi15/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -35,6 +36,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Royi15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Royi15/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Royi15/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
@@ -76,6 +78,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Royi15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
