@@ -45,6 +45,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0006-zigzag-conversion](https://github.com/Royi15/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Royi15/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Royi15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Royi15/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
 | [0937-reorder-data-in-log-files](https://github.com/Royi15/LeetCode/tree/master/0937-reorder-data-in-log-files) |
@@ -94,6 +95,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Royi15/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Royi15/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Royi15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Royi15/LeetCode/tree/master/0202-happy-number) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
 ## Sorting
