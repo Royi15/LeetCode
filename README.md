@@ -32,6 +32,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0003-longest-substring-without-repeating-characters](https://github.com/Royi15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Royi15/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Royi15/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Royi15/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Royi15/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -98,6 +99,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Royi15/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Royi15/LeetCode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Royi15/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Royi15/LeetCode/tree/master/0202-happy-number) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
 ## Sorting
@@ -203,6 +205,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | ------- |
 | [0002-add-two-numbers](https://github.com/Royi15/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Royi15/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Royi15/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
