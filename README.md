@@ -16,6 +16,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Royi15/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Royi15/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Royi15/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Royi15/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Royi15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Royi15/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -29,6 +30,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0003-longest-substring-without-repeating-characters](https://github.com/Royi15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Royi15/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Royi15/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Royi15/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Royi15/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Royi15/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Royi15/LeetCode/tree/master/0217-contains-duplicate) |
@@ -100,6 +102,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0056-merge-intervals](https://github.com/Royi15/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Royi15/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Royi15/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Royi15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Royi15/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0937-reorder-data-in-log-files](https://github.com/Royi15/LeetCode/tree/master/0937-reorder-data-in-log-files) |
@@ -127,6 +130,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Royi15/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Royi15/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Royi15/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Royi15/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Royi15/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -137,6 +141,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Royi15/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Royi15/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
