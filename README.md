@@ -16,6 +16,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0075-sort-colors](https://github.com/Royi15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Royi15/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Royi15/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Royi15/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Royi15/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Royi15/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Royi15/LeetCode/tree/master/0200-number-of-islands) |
@@ -58,6 +59,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0063-unique-paths-ii](https://github.com/Royi15/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Royi15/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Royi15/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Royi15/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
