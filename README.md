@@ -54,6 +54,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0937-reorder-data-in-log-files](https://github.com/Royi15/LeetCode/tree/master/0937-reorder-data-in-log-files) |
 | [1041-robot-bounded-in-circle](https://github.com/Royi15/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1268-search-suggestions-system](https://github.com/Royi15/LeetCode/tree/master/1268-search-suggestions-system) |
+| [1768-merge-strings-alternately](https://github.com/Royi15/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Automated LeetCode workspace: Solutions synced seamlessly via LeetHub, featuring
 | [0160-intersection-of-two-linked-lists](https://github.com/Royi15/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Royi15/LeetCode/tree/master/0202-happy-number) |
 | [0763-partition-labels](https://github.com/Royi15/LeetCode/tree/master/0763-partition-labels) |
+| [1768-merge-strings-alternately](https://github.com/Royi15/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
