@@ -5,25 +5,19 @@ class Solution(object):
         :type word2: str
         :rtype: str
         """
-        flag = 0 
-        newWord= ""
+        newWord = []
+        i, j = 0, 0
 
-        for i in range(len(word1) + len(word2)):
-            if flag == 0 and word1:
-                newWord += word1[0]
-                word1 = word1[1:]
-            elif word2:
-                newWord += word2[0]
-                word2 = word2[1:]
-            flag = 1-flag
+        while i < len(word1) and j < len(word2):
+            newWord.append(word1[i])
+            newWord.append(word2[j])
+            i += 1
+            j += 1
 
-        if word1:
-            newWord += word1
-        elif word2:
-            newWord += word2
-
-        return newWord
-
+        newWord.append(word1[i:])
+        newWord.append(word2[j:])
+        
+        return "".join(newWord)
             
 
 
